@@ -1,0 +1,5 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+plotly>=5.0.0

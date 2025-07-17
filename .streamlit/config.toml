@@ -1,0 +1,13 @@
+[server]
+headless = true
+
+[client]
+showErrorDetails = true
+
+[theme]
+base = "dark"
+primaryColor = "#08d9d6"
+backgroundColor = "#0f1117"
+secondaryBackgroundColor = "#1a1d2e"
+textColor = "#f0f0f0"
+font = "sans serif"
